@@ -1,3 +1,3 @@
 # hello-world
-ji guys,let us 
+hi guys,let us 
 hello world
